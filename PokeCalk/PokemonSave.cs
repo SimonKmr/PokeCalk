@@ -8,6 +8,7 @@ namespace PokeCalk
 {
     class PokemonSave
     {
+        //this class will hold all information about your pokemon team
         public int[] teamIDs { get; set; }
     }
 }
