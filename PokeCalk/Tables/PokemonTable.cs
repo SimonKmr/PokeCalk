@@ -15,10 +15,7 @@ namespace PokeCalk
     {
         // this class is responsible for calculating damage modifires based on pokemon types
         List<PokemonClass> pokemons { get; set; } = new List<PokemonClass>();
-        public void TESTSETESTAFDSAFDSAFDSAFDSAFD()
-        {
-            Console.WriteLine("Hello World");
-        }
+
         public void LoadList()
         {
             //loads the typeTable
